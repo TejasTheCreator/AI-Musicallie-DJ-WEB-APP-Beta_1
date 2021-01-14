@@ -1,0 +1,55 @@
+#header
+{
+    text-align: center;
+    background-color: #ff3381;
+    border-radius: 15px;
+    border: 5px solid #333333;
+    font-size: 42px;
+    font-family: 'Black Ops One', cursive;
+    color: #26de85;
+    align-items: center;
+    height: 150px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+#DJ_Record-Player_Image_1
+{
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+    margin-right: 200px;
+}
+
+#DJ_Record-Player_Image_2
+{
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+    margin-left: 200px;
+}
+
+#song_name
+{
+    font-size: 22px;
+}
+
+#note
+{
+    font-size: 19px;
+}
+
+.copy_right_footer
+{
+    font-family: 'Acme', sans-serif;
+    background-color: #6961ff;
+    font-size: 23px;
+}
+
+canvas{
+    border: 5px solid #2b2b2b;
+    border-radius: 20px;
+}
